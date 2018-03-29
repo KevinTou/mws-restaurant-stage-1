@@ -105,25 +105,6 @@ nav h1 a {
   width: 100%;
   background-color: #ccc;
 }
-/* #maincontent #map-container {
-  height: 400px;
-  width: 100%;
-  background-color: #ccc;
-}
-#maincontent-top > #map-container, #maincontent-top > #map-container > #map {
-  height: 200px;
-}
-.inside #map-container {
-  background: blue none repeat scroll 0 0;
-  width: 100%;
-}
-
-@media (min-width:700px)  { 
-  #maincontent-top > #map-container, #maincontent-top > #map-container > #map {
-    height: 660px;
-  }
- } */
-
 /* ====================== Restaurant Filtering ====================== */
 .filter-options {
   display: flex;
